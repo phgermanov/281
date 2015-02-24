@@ -27,7 +27,7 @@ public class ClientReserve {
 			 * Prepare the body of a put method. Create the string, in XML syntax, a request to 
 			 * reserve (book) a slot. 
 			 */
-			xmlString = XMLRequest.Reservation("7344", "in2098", "bbwwL8", 7286);
+			xmlString = XMLRequest.Reservation("7344", "in2098", "bbwwL8", 7253);
 
 			/* 
 			 * Set the request's entity (body).
